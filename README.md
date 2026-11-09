@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**honeybankhede/honeybankhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm a Developer.
 
-Here are some ideas to get you started:
+**B.Tech CSE Student | Aspiring Software Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in software development, application engineering, and building practical solutions through technology.
+
+### About Me
+- Currently learning and building with Flutter.
+- Exploring Firebase and backend technologies.
+- Interested in clean code and scalable applications.
+- Focused on continuous learning and practical development.
+
+### Tech Stack
+- **Languages:** Dart, C++, Python
+- **Framework:** Flutter
+- **Backend:** Firebase
+- **Tools:** Git, GitHub, VS Code
+
+### Projects
+- **CampusOS** — Academic companion application for engineering students.
+- **Jenny Video Player** — Modern desktop video player with wireless remote functionality.
+
+---
+
+*Focused on building. Committed to improving.*
+
