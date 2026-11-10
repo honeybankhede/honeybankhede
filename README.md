@@ -1,7 +1,7 @@
 
 # Hi, I'm a Developer.
 
-**B.Tech CSE Student | Aspiring Software Engineer**
+**B.Tech CSE Student || Aspiring Software Engineer**
 
 Interested in software development, application engineering, and building practical solutions through technology.
 
