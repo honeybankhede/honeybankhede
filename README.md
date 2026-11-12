@@ -12,7 +12,7 @@ Interested in software development, application engineering, and building practi
 - Focused on continuous learning and practical development.
 
 ### Tech Stack
-- **Languages:** Dart, C++, Python
+- **Languages:** Dart,c, C++, Python
 - **Framework:** Flutter
 - **Backend:** Firebase
 - **Tools:** Git, GitHub, VS Code
