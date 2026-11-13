@@ -5,19 +5,19 @@
 
 Interested in software development, application engineering, and building practical solutions through technology.
 
-### About Me
+## About Me
 - Currently learning and building with Flutter.
 - Exploring Firebase and backend technologies.
 - Interested in clean code and scalable applications.
 - Focused on continuous learning and practical development.
 
-### Tech Stack
+## Tech Stack
 - **Languages:** Dart,c, C++, Python
 - **Framework:** Flutter
 - **Backend:** Firebase
 - **Tools:** Git, GitHub, VS Code
 
-### Projects
+## Projects
 - **CampusOS** — Academic companion application for engineering students.
 - **Jenny Video Player** — Modern desktop video player with wireless remote functionality.
 
