@@ -20,7 +20,7 @@ Interested in software development, application engineering, and building practi
 ## Projects
 - **CampusOS** — Academic companion application for engineering students.
 - **Jenny Video Player** — Modern desktop video player with wireless remote functionality.
-
+and many more.........
 ---
 
 *Focused on building. Committed to improving.*
