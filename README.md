@@ -1,5 +1,5 @@
 
-# Hi, I'm a Developer.
+# Hi, I'm a Developer
 
 **B.Tech CSE Student || Aspiring Software Engineer**
 
