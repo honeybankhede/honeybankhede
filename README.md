@@ -22,5 +22,5 @@ Interested in software development, application engineering, and building practi
 - **Jenny Video Player** — Modern desktop video player with wireless remote functionality.
 
 
-*Focused on building. Committed to improving.*
+
 
